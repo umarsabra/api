@@ -1,0 +1,10 @@
+insert into user (id, firstname, lastname, username, password) values (1, 'Abigael', 'Mattheis', 'amattheis0', 'DvBBzF');
+insert into user (id, firstname, lastname, username, password) values (2, 'Krystyna', 'Wellbeloved', 'kwellbeloved1', 'kM7ZQRkr');
+insert into user (id, firstname, lastname, username, password) values (3, 'Mar', 'Clutterham', 'mclutterham2', 'q09De0DIDgfL');
+insert into user (id, firstname, lastname, username, password) values (4, 'Ekaterina', 'Windaybank', 'ewindaybank3', 'cx7abKkdh7g');
+insert into user (id, firstname, lastname, username, password) values (5, 'Randa', 'Bickerdicke', 'rbickerdicke4', 'R0RexgMd2Oe');
+insert into user (id, firstname, lastname, username, password) values (6, 'Maribel', 'Semered', 'msemered5', 'pofHQaLQrXrU');
+insert into user (id, firstname, lastname, username, password) values (7, 'Panchito', 'Dressel', 'pdressel6', 'dVnfU1spi4');
+insert into user (id, firstname, lastname, username, password) values (8, 'Adlai', 'Ricards', 'aricards7', '0Ts4JKDXwe');
+insert into user (id, firstname, lastname, username, password) values (9, 'Bordie', 'Skey', 'bskey8', 'OZeYFLy');
+insert into user (id, firstname, lastname, username, password) values (10, 'Harold', 'McGawn', 'hmcgawn9', 'kOLYdmVMEln');

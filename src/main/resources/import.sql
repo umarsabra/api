@@ -1,0 +1,1 @@
+INSERT INTO genre (id ,name) VALUES(5 ,'testimport');

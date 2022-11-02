@@ -1,0 +1,13 @@
+insert into branch (id, name, store_id) values (1, 'Reinaldos Battrum', 10);
+insert into branch (id, name, store_id) values (2, 'Arlin Porteous', 3);
+insert into branch (id, name, store_id) values (3, 'Idalina Mingay', 8);
+insert into branch (id, name, store_id) values (4, 'Lissa Armatage', 2);
+insert into branch (id, name, store_id) values (5, 'Ravi Blinkhorn', 5);
+insert into branch (id, name, store_id) values (6, 'Dickie Bolesma', 10);
+insert into branch (id, name, store_id) values (7, 'Cesaro Simioli', 5);
+insert into branch (id, name, store_id) values (8, 'Leena Tattersdill', 10);
+insert into branch (id, name, store_id) values (9, 'Jocelin Plues', 1);
+insert into branch (id, name, store_id) values (10, 'Rana Petersen', 10);
+insert into branch (id, name, store_id) values (11, 'Callie Kunrad', 10);
+insert into branch (id, name, store_id) values (12, 'Pren Dottrell', 7);
+insert into branch (id, name, store_id) values (13, 'Jori Hiseman', 4);
